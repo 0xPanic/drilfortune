@@ -1,11 +1,15 @@
+
+# Drilfortune
 generates a random dril quote
 
-setup:
+##setup:
 
 mv the drilfortune file into your path
 
 move the txt file into /usr/local/games/drilfortune.txt
 
-TODO:
 
-automate install with aur/deb stuff
+alternatively just run pkgbuild
+
+##TODO:
+deb package, add to aur
