@@ -1,7 +1,7 @@
 pkgname=drilfortune
 pkgver=0.1
 pkgrel=1
-pkgdesc="no"
+pkgdesc="display a random tweet from @dril"
 arch=("any")
 license=('GPL')
 source=("https://raw.githubusercontent.com/0xPanic/drilfortune/master/drilfortune.tar.gz")
