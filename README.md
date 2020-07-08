@@ -1,7 +1,8 @@
 # Drilfortune
+
 generates a random dril quote
 
-##setup:
+##setup
 
 mv the drilfortune file into your path
 
