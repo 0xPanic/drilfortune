@@ -2,7 +2,7 @@
 
 generates a random dril quote
 
-##setup
+## setup
 
 mv the drilfortune file into your path
 
@@ -11,5 +11,5 @@ move the txt file into /usr/local/games/drilfortune.txt
 
 alternatively just run pkgbuild
 
-##TODO:
+## TODO:
 deb package, add to aur
