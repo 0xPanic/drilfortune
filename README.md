@@ -1,6 +1,6 @@
 # Drilfortune
 
-generates a random dril quote
+generates a random dril quote as a standalone program separate from fortune
 
 ## setup
 
@@ -12,4 +12,4 @@ move the txt file into /usr/local/games/drilfortune.txt
 alternatively just run pkgbuild
 
 ## TODO:
-deb package, add to aur
+deb package
